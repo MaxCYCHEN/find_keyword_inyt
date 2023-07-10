@@ -1,0 +1,10 @@
+SpeechRecognition==3.10.0
+pydub==0.25.1
+pytube==15.0.0
+librosa==0.10.0.post2
+soundfile==0.12.1
+youtube-transcript-api==0.6.1
+openai-whisper==20230314
+whisper-timestamped @ git+https://github.com/linto-ai/whisper-timestamped@732865ce9c0c1027c67f964e7200c7db6542b142
+tqdm==4.65.0
+matplotlib==3.5.1
