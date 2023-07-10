@@ -7,3 +7,6 @@
 - Use Anaconda to create a python env: `conda create --name find_keyword_inyt`.
 - Choose this new `find_keyword_inyt` env.
 - Open CMD.exe and excute `pip install -r requirements.txt` below `/find_keyword_inyt` folder.
+- Because pydub need ffmpeg&ffprobe, excute below two cmd: `pip install ffmpeg-downloader` and `ffdl install --add-path`.
+- Final reopen the Anaconda & `find_keyword_inyt` env.
+
